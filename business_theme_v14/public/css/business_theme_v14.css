@@ -4,8 +4,6 @@
 @import url(./espresso/_spacing.scss);
 @import url(./espresso/_typography.scss);
 
-
-
 [data-theme="dark"] {
     --background-color: #36414c00;
     --secondary-background-color: #6ab0f600;
@@ -20,6 +18,7 @@
     --text-secondary-color:#ffffff;
     --second-stroke:#fff;
     --sidebar-label-color:#fff;
+    --text-hover-color:#cefcea;
 }
 
 [data-theme="light"] {
