@@ -2,5 +2,6 @@
 *.pyc
 *.egg-info
 *.swp
+*.*:Zone.Identifier
 tags
 business_theme_v14/docs/current
