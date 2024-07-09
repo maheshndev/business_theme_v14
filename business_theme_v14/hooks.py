@@ -39,7 +39,7 @@ app_include_css = "/assets/business_theme_v14/css/business_theme_v14.css"
 # Svg Icons
 # ------------------
 # include app icons in desk
-# app_include_icons = "business_theme_v14/public/icons.svg"
+ app_include_icons = "business_theme_v14/public/icons.svg"
 
 # Home Pages
 # ----------
