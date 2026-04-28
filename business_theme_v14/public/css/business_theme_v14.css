@@ -410,7 +410,10 @@ symbol#icon-small-down{
     stroke: var(--stroke-page-head) !important;
 } 
 
-
+[data-page-route="Workspaces"] .codex-editor .codex-editor__redactor .ce-block .new-block-button{
+    background-color: var(--secondary-background-color) !important;
+    border-radius: 5px !important;
+}
 .navbar-nav.nav-item.es-icon{
     stroke: var(--blue) !important;
 }
